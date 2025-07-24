@@ -22,7 +22,7 @@ A comprehensive, modern school management system built with Next.js 15, TypeScri
 
 ### Technical Features
 - **Responsive Design**: Mobile-first approach with seamless cross-device experience
-- **Modern UI**: Clean, professional interface following 2025 design standards
+- **Modern UI**: Clean, professional interface following modern design standards
 - **Type Safety**: Full TypeScript implementation with proper type definitions
 - **Performance**: Optimized loading, caching, and efficient rendering
 - **Security**: Role-based access control and secure authentication
